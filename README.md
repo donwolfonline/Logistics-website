@@ -1,4 +1,4 @@
-# Logistics Website
+# Logistics Web App
 
 A modern, feature-rich logistics and transportation management system built with Laravel. This platform provides comprehensive solutions for managing logistics operations, tracking shipments, and handling customer interactions.
 
