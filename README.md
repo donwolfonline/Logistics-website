@@ -162,4 +162,4 @@ For support, please contact [support@example.com](mailto:support@example.com)
 
 ## Credits
 
-Built with [Laravel](https://laravel.com/) and maintained by [Your Name/Company].
+Built with [Laravel](https://laravel.com/) and maintained by [donwolfonline].
