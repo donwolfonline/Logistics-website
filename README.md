@@ -51,7 +51,7 @@ A modern, feature-rich logistics and transportation management system built with
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/donwolfonline/Logistics-website.git
+   git clone https://github.com/donwolfonline/Logisticswebapp.git
    cd Logistics-website
    ```
 
